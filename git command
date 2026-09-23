@@ -1,0 +1,6 @@
+git init
+git status
+git add          - untracked to staged
+git commit -m    - staged to tracked 
+git restore
+git remote -v
